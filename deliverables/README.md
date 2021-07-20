@@ -28,7 +28,7 @@ The summary of the milestones includes:
 | - | - | - |
 | D0-a | License | Apache 2.0 |
 | D0-b | Documentation | Repository with a Readme.md file describing eNFT project |
-| D0-d | Repository | https://github.com/splytcore/Splyt_Polkadot/deliverables/README.md |
+| D0-d | Repository | https://github.com/splytcore/Splyt_Polkadot/blob/main/deliverables/README.md |
 | D1 | Polkadot NFT Projects Survey | survey of the current NFT projects and comparisons of their system design and architecture |
 | D2 | eNFT Ref Architecture | proposed eNFT reference architecture |
 | D3 | Dev environment | rust dev environment and local rococo testnet for substrate and parachain development |
