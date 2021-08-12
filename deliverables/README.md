@@ -1,6 +1,6 @@
 ##  Development Roadmap :nut_and_bolt:
 
-The development roadmap of this project covers design of eNFT, implementation of key eNFT pallets, testing and real-world use cases. Each milestone describes estimated duration, FTE, costs and its deliverables. The key types and functionality of eNFT standard and its implementation-specific deliverables (D4, D5, D8, D9, D11, D12, D13 and D14) are described in detail in the Specification Details section. 
+The development roadmap of this project covers design of eNFT, implementation of key eNFT pallets, testing and real-world use cases. Each milestone describes estimated duration, FTE, costs and its deliverables. The key types and functionality of eNFT standard and its implementation-specific deliverables (D1, D2, D5, D6, D8, D9, D10 and D11) are described in detail in the Specification Details section. 
 
 The summary of the milestones includes:  
 * Milestone 1 - eNFT Assets: design and implementation of asset-related types and functionalities
